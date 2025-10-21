@@ -14,6 +14,9 @@ Bu Python uygulaması ile kullanıcılar yemek tariflerini arayabilir veya rastg
 
 🧠 Basit kullanıcı etkileşimi
 
+## 📄 Lisans
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
 ## Kullanılan Teknolojiler
 - Python
 - requests
@@ -32,6 +35,7 @@ pip install -r requirements.txt
 
 Kullanım
 python yemektarifleri.py
+
 
 
 
