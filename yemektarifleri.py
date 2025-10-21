@@ -75,3 +75,4 @@ while True:
     if tekrar != "e":
         print("Programdan çıkılıyor.")
         break
+
