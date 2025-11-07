@@ -37,6 +37,22 @@ Kullanım
 python yemektarifleri.py
 
 
+🎥 Proje Videosu
+
+Bu proje, CS50P Final Project kapsamında hazırlanmıştır.
+📺 Video Sunumu: [YouTube'da İzle](https://www.youtube.com/watch?v=JIUvc88J_eg)
+
+👤 Geliştirici Bilgileri
+
+Ad Soyad: Emre Altındağ
+
+GitHub Kullanıcı Adı: emrealtindag
+
+edX Kullanıcı Adı: emrevaltn
+
+Şehir / Ülke: İstanbul, Türkiye
+
+Tarih: 7 Kasım 2025
 
 
 
