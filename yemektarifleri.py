@@ -1,4 +1,5 @@
 import requests
+import deep_translator
 from deep_translator import GoogleTranslator
 
 
@@ -104,3 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
